@@ -1,3 +1,5 @@
 library(tidyverse)
 
-test<- rnorm(10,0,1)
+test <- rnorm(10,0,1)
+mean(test)
+
